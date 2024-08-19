@@ -1,1 +1,1 @@
-# Image-Recognition-Deep-Learning
+# Face Comparison using DeepFace and OpenCV
